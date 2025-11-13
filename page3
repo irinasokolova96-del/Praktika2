@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Это страница 3</h3>
+  <ol>Навигация по сайту
+<li> <a href="<index.html">Главная страница</a></li>
+<li> <a href="<page2.html">Страница 2</a></li>
+<li> <a href="<page3.html">Страница 3</a></li>
+    </ol>  
+
+    <h4>Купить на НГ</h4>
+    <ol>
+        <li>Кола</li>
+        <li>Мандарины</li>
+        <li>Заморская икра - кабачковая</li>
+ </ol>
+
+    <h5>Номера телефонов</h5>
+    <ul>
+    <li>01</li>
+    <li>02</li>
+    <li>03</li>
+    <li>04</li>
+   </ul>
+</body>
+</html>
