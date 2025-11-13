@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Это сраница 2 </h2>
+    <ol>Навигация по сайту
+<li> <a href="<index.html">Главная страница</a></li>
+<li> <a href="<page2.html">Страница 2</a></li>
+<li> <a href="<page3.html">Страница 3</a></li>
+    </ol>
+
+    <img src="1404391614_558523146.jpg" height="200">
+    <img src="a04837089952f4789474f51ce6daea4b6248e333be192cdae0e2eec3116749e2_1.jpg" height="200">
+    <img src="fe988b072c53fe142f96696f02b67e45.jpg" height="200">
+    <img src="images.jpg" height="200">
+
+</body>
+</html>
